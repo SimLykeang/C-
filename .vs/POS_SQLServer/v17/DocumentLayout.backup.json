@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SETEC INSTITUTE\\SETEC(Y2)\\Semester1\\C#\\POS_SQLServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{732D5D38-127F-45A9-94D0-F5BD6815AA59}|POS_SQLServer\\POS_SQLServer.csproj|d:\\setec institute\\setec(y2)\\semester1\\c#\\pos_sqlserver\\pos_sqlserver\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{732D5D38-127F-45A9-94D0-F5BD6815AA59}|POS_SQLServer\\POS_SQLServer.csproj|solutionrelative:pos_sqlserver\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732D5D38-127F-45A9-94D0-F5BD6815AA59}|POS_SQLServer\\POS_SQLServer.csproj|d:\\setec institute\\setec(y2)\\semester1\\c#\\pos_sqlserver\\pos_sqlserver\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732D5D38-127F-45A9-94D0-F5BD6815AA59}|POS_SQLServer\\POS_SQLServer.csproj|solutionrelative:pos_sqlserver\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732D5D38-127F-45A9-94D0-F5BD6815AA59}|POS_SQLServer\\POS_SQLServer.csproj|d:\\setec institute\\setec(y2)\\semester1\\c#\\pos_sqlserver\\pos_sqlserver\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732D5D38-127F-45A9-94D0-F5BD6815AA59}|POS_SQLServer\\POS_SQLServer.csproj|solutionrelative:pos_sqlserver\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732D5D38-127F-45A9-94D0-F5BD6815AA59}|POS_SQLServer\\POS_SQLServer.csproj|d:\\setec institute\\setec(y2)\\semester1\\c#\\pos_sqlserver\\pos_sqlserver\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{732D5D38-127F-45A9-94D0-F5BD6815AA59}|POS_SQLServer\\POS_SQLServer.csproj|solutionrelative:pos_sqlserver\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732D5D38-127F-45A9-94D0-F5BD6815AA59}|POS_SQLServer\\POS_SQLServer.csproj|d:\\setec institute\\setec(y2)\\semester1\\c#\\pos_sqlserver\\pos_sqlserver\\dataconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732D5D38-127F-45A9-94D0-F5BD6815AA59}|POS_SQLServer\\POS_SQLServer.csproj|solutionrelative:pos_sqlserver\\dataconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732D5D38-127F-45A9-94D0-F5BD6815AA59}|POS_SQLServer\\POS_SQLServer.csproj|d:\\setec institute\\setec(y2)\\semester1\\c#\\pos_sqlserver\\pos_sqlserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732D5D38-127F-45A9-94D0-F5BD6815AA59}|POS_SQLServer\\POS_SQLServer.csproj|solutionrelative:pos_sqlserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732D5D38-127F-45A9-94D0-F5BD6815AA59}|POS_SQLServer\\POS_SQLServer.csproj|d:\\setec institute\\setec(y2)\\semester1\\c#\\pos_sqlserver\\pos_sqlserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{732D5D38-127F-45A9-94D0-F5BD6815AA59}|POS_SQLServer\\POS_SQLServer.csproj|solutionrelative:pos_sqlserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditProduct.cs",
+              "DocumentMoniker": "D:\\SETEC INSTITUTE\\SETEC(Y2)\\Semester1\\C#\\POS_SQLServer\\POS_SQLServer\\EditProduct.cs",
+              "RelativeDocumentMoniker": "POS_SQLServer\\EditProduct.cs",
+              "ToolTip": "D:\\SETEC INSTITUTE\\SETEC(Y2)\\Semester1\\C#\\POS_SQLServer\\POS_SQLServer\\EditProduct.cs",
+              "RelativeToolTip": "POS_SQLServer\\EditProduct.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwOIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T00:53:43.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataConection.cs",
+              "DocumentMoniker": "D:\\SETEC INSTITUTE\\SETEC(Y2)\\Semester1\\C#\\POS_SQLServer\\POS_SQLServer\\DataConection.cs",
+              "RelativeDocumentMoniker": "POS_SQLServer\\DataConection.cs",
+              "ToolTip": "D:\\SETEC INSTITUTE\\SETEC(Y2)\\Semester1\\C#\\POS_SQLServer\\POS_SQLServer\\DataConection.cs",
+              "RelativeToolTip": "POS_SQLServer\\DataConection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T00:23:10.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddProduct.cs",
+              "DocumentMoniker": "D:\\SETEC INSTITUTE\\SETEC(Y2)\\Semester1\\C#\\POS_SQLServer\\POS_SQLServer\\AddProduct.cs",
+              "RelativeDocumentMoniker": "POS_SQLServer\\AddProduct.cs",
+              "ToolTip": "D:\\SETEC INSTITUTE\\SETEC(Y2)\\Semester1\\C#\\POS_SQLServer\\POS_SQLServer\\AddProduct.cs",
+              "RelativeToolTip": "POS_SQLServer\\AddProduct.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwFgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T00:32:06.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddProduct.cs [Design]",
+              "DocumentMoniker": "D:\\SETEC INSTITUTE\\SETEC(Y2)\\Semester1\\C#\\POS_SQLServer\\POS_SQLServer\\AddProduct.cs",
+              "RelativeDocumentMoniker": "POS_SQLServer\\AddProduct.cs",
+              "ToolTip": "D:\\SETEC INSTITUTE\\SETEC(Y2)\\Semester1\\C#\\POS_SQLServer\\POS_SQLServer\\AddProduct.cs [Design]",
+              "RelativeToolTip": "POS_SQLServer\\AddProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T00:28:04.036Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditProduct.cs [Design]",
+              "DocumentMoniker": "D:\\SETEC INSTITUTE\\SETEC(Y2)\\Semester1\\C#\\POS_SQLServer\\POS_SQLServer\\EditProduct.cs",
+              "RelativeDocumentMoniker": "POS_SQLServer\\EditProduct.cs",
+              "ToolTip": "D:\\SETEC INSTITUTE\\SETEC(Y2)\\Semester1\\C#\\POS_SQLServer\\POS_SQLServer\\EditProduct.cs [Design]",
+              "RelativeToolTip": "POS_SQLServer\\EditProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T00:27:47.308Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\SETEC INSTITUTE\\SETEC(Y2)\\Semester1\\C#\\POS_SQLServer\\POS_SQLServer\\Form1.cs",
+              "RelativeDocumentMoniker": "POS_SQLServer\\Form1.cs",
+              "ToolTip": "D:\\SETEC INSTITUTE\\SETEC(Y2)\\Semester1\\C#\\POS_SQLServer\\POS_SQLServer\\Form1.cs",
+              "RelativeToolTip": "POS_SQLServer\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T00:23:21.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\SETEC INSTITUTE\\SETEC(Y2)\\Semester1\\C#\\POS_SQLServer\\POS_SQLServer\\Form1.cs",
+              "RelativeDocumentMoniker": "POS_SQLServer\\Form1.cs",
+              "ToolTip": "D:\\SETEC INSTITUTE\\SETEC(Y2)\\Semester1\\C#\\POS_SQLServer\\POS_SQLServer\\Form1.cs [Design]",
+              "RelativeToolTip": "POS_SQLServer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T00:23:04.509Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
